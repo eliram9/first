@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            First react app on GitHub.
+            First react app on GitHub, I made it!!!
           </p>
           <a
             className="App-link"
